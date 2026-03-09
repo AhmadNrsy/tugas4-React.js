@@ -11,7 +11,7 @@ function App() {
       <div className="card">
 
         <img
-          src="https://i.pravatar.cc/150"
+          src="fotoMad.jpg"
           alt="profile"
           className="profile"
         />
