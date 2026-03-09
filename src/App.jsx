@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "./App.css";
+import foto from "./fotoMad.jpg";
 
 function App() {
 
@@ -11,7 +12,7 @@ function App() {
       <div className="card">
 
         <img
-          src="fotoMad.jpg"
+          src={foto}
           alt="profile"
           className="profile"
         />
